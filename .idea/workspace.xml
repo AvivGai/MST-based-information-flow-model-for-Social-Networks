@@ -11,6 +11,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YOrUAQDojOsEryq7rJDVqVsyDx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -18,6 +19,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/MainAlgorithm" />
   </component>
   <component name="RecentsManager">
@@ -90,13 +92,33 @@
       <option name="presentableId" value="Default" />
       <updated>1582824494467</updated>
     </task>
+    <task id="LOCAL-00001" summary="arranged files">
+      <created>1582825701536</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582825701536</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="arranged files" />
+    <option name="LAST_COMMIT_MESSAGE" value="arranged files" />
   </component>
   <component name="WindowStateProjectService">
     <state x="384" y="173" width="588" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582824960944">
       <screen x="0" y="27" width="1366" height="684" />
     </state>
     <state x="384" y="173" width="588" height="390" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1366.684@0.27.1366.684" timestamp="1582824960944" />
+    <state x="283" y="27" width="790" height="684" key="CommitChangelistDialog2" timestamp="1582825701306">
+      <screen x="0" y="27" width="1366" height="684" />
+    </state>
+    <state x="283" y="27" width="790" height="684" key="CommitChangelistDialog2/0.27.1366.684@0.27.1366.684" timestamp="1582825701306" />
+    <state x="454" y="111" width="447" height="513" key="FileChooserDialogImpl" timestamp="1582825732845">
+      <screen x="0" y="27" width="1366" height="684" />
+    </state>
+    <state x="454" y="111" width="447" height="513" key="FileChooserDialogImpl/0.27.1366.684@0.27.1366.684" timestamp="1582825732845" />
     <state width="1343" height="157" key="GridCell.Tab.0.bottom" timestamp="1582824975115">
       <screen x="0" y="27" width="1366" height="684" />
     </state>
