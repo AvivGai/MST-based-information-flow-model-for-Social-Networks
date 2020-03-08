@@ -41,5 +41,4 @@ def kruskal(graph, num_of_v):
             minimum_spanning_tree.add(edges[index])
             edges_counter = edges_counter+1
         index = index+1
-
     return sorted(minimum_spanning_tree)

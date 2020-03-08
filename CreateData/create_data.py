@@ -21,7 +21,7 @@ def create_connections_table(num_of_v):
             if i < j and random.randint(0, 1):
                 connections[i][j] = Connection(random.randint(1, 36), random.randint(0, 80))
             elif i < j:
-                connections[i][j] = Connection(0, random.randint(0, 80))
+                connections[i][j] = Connection(0, 0)
             elif i == j:
                 connections[i][j] = Connection(0, 0)
             else:

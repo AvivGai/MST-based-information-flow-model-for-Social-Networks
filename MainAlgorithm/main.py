@@ -14,10 +14,10 @@ def main():
     file_bool_connections.close()
     num_of_v = len(users_list)
 
-    ego_node = input("Enter ego node - a number between 1 to 60 :")
-    # plot_new_graph(num_of_v, bool_connections, ego_node)
-    mtv = input("Enter minimum trust value : ")
+    ego_node = input("Enter ego node - a number between 0 to 60 : ")
+    mtv = input("Enter minimum trust value - a number between 0 to 1 : ")
     copy_bool_connections = deepcopy(bool_connections)
+    plot_new_graph(num_of_v, bool_connections, connections,users_list, ego_node, "Original Network")
     find_trustworthy_network(users_list, connections, mtv, ego_node, copy_bool_connections)
 
 

@@ -2,7 +2,6 @@ def bfs(graph, node):
     visited = {}
     for vertice in graph['vertices']:
         visited[vertice] = False
-
     queue = [node]
     visited[node] = True
     edges = list(graph['edges'])

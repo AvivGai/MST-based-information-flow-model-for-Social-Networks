@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2aea8ca4-5aaf-411c-87f5-fa8a6d8850f2" name="Default Changelist" comment="" />
+    <list default="true" id="2aea8ca4-5aaf-411c-87f5-fa8a6d8850f2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CreateData/MOCK_DATA .json" beforeDir="false" afterPath="$PROJECT_DIR$/CreateData/MOCK_DATA .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CreateData/bool_connections" beforeDir="false" afterPath="$PROJECT_DIR$/CreateData/bool_connections" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CreateData/connections" beforeDir="false" afterPath="$PROJECT_DIR$/CreateData/connections" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CreateData/create_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/CreateData/create_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CreateData/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/CreateData/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CreateData/user_list" beforeDir="false" afterPath="$PROJECT_DIR$/CreateData/user_list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainAlgorithm/aviv_create_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainAlgorithm/bfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/MainAlgorithm/bfs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainAlgorithm/find_trusworthy_netwotk.py" beforeDir="false" afterPath="$PROJECT_DIR$/MainAlgorithm/find_trusworthy_netwotk.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainAlgorithm/foo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainAlgorithm/kruskal.py" beforeDir="false" afterPath="$PROJECT_DIR$/MainAlgorithm/kruskal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainAlgorithm/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/MainAlgorithm/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +34,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/MainAlgorithm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -107,10 +122,15 @@
     <option name="LAST_COMMIT_MESSAGE" value="arranged files" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="384" y="173" width="588" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582824960944">
-      <screen x="0" y="27" width="1366" height="684" />
+    <state x="1906" y="231" width="614" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583238978125">
+      <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="384" y="173" width="588" height="390" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1366.684@0.27.1366.684" timestamp="1582824960944" />
+    <state x="1906" y="231" width="614" height="390" key="#com.intellij.fileTypes.FileTypeChooser/1366.0.1920.1080/0.27.1366.741@1366.0.1920.1080" timestamp="1583238978125" />
+    <state x="2000" y="129" width="642" height="790" key="#main" timestamp="1583231205604">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2000" y="129" width="642" height="790" key="#main/1366.0.1920.1080/0.27.1366.741@1366.0.1920.1080" timestamp="1583231205604" />
     <state x="283" y="27" width="790" height="684" key="CommitChangelistDialog2" timestamp="1582825701306">
       <screen x="0" y="27" width="1366" height="684" />
     </state>
@@ -119,25 +139,85 @@
       <screen x="0" y="27" width="1366" height="684" />
     </state>
     <state x="454" y="111" width="447" height="513" key="FileChooserDialogImpl/0.27.1366.684@0.27.1366.684" timestamp="1582825732845" />
-    <state width="1343" height="157" key="GridCell.Tab.0.bottom" timestamp="1582824975115">
-      <screen x="0" y="27" width="1366" height="684" />
+    <state width="1897" height="172" key="GridCell.Tab.0.bottom" timestamp="1583252195203">
+      <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state width="1343" height="157" key="GridCell.Tab.0.bottom/0.27.1366.684@0.27.1366.684" timestamp="1582824975115" />
-    <state width="1343" height="157" key="GridCell.Tab.0.center" timestamp="1582824975115">
-      <screen x="0" y="27" width="1366" height="684" />
+    <state width="1897" height="172" key="GridCell.Tab.0.bottom/1366.0.1920.1080/0.27.1366.741@1366.0.1920.1080" timestamp="1583252195203" />
+    <state width="1897" height="172" key="GridCell.Tab.0.center" timestamp="1583252195203">
+      <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state width="1343" height="157" key="GridCell.Tab.0.center/0.27.1366.684@0.27.1366.684" timestamp="1582824975115" />
-    <state width="1343" height="157" key="GridCell.Tab.0.left" timestamp="1582824975114">
-      <screen x="0" y="27" width="1366" height="684" />
+    <state width="1897" height="172" key="GridCell.Tab.0.center/1366.0.1920.1080/0.27.1366.741@1366.0.1920.1080" timestamp="1583252195203" />
+    <state width="1897" height="172" key="GridCell.Tab.0.left" timestamp="1583252195202">
+      <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state width="1343" height="157" key="GridCell.Tab.0.left/0.27.1366.684@0.27.1366.684" timestamp="1582824975114" />
-    <state width="1343" height="157" key="GridCell.Tab.0.right" timestamp="1582824975115">
-      <screen x="0" y="27" width="1366" height="684" />
+    <state width="1897" height="172" key="GridCell.Tab.0.left/1366.0.1920.1080/0.27.1366.741@1366.0.1920.1080" timestamp="1583252195202" />
+    <state width="1897" height="172" key="GridCell.Tab.0.right" timestamp="1583252195203">
+      <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state width="1343" height="157" key="GridCell.Tab.0.right/0.27.1366.684@0.27.1366.684" timestamp="1582824975115" />
+    <state width="1897" height="172" key="GridCell.Tab.0.right/1366.0.1920.1080/0.27.1366.741@1366.0.1920.1080" timestamp="1583252195203" />
+    <state width="1897" height="321" key="GridCell.Tab.1.bottom" timestamp="1583250406793">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1897" height="321" key="GridCell.Tab.1.bottom/1366.0.1920.1080/0.27.1366.741@1366.0.1920.1080" timestamp="1583250406793" />
+    <state width="1897" height="321" key="GridCell.Tab.1.center" timestamp="1583250406793">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1897" height="321" key="GridCell.Tab.1.center/1366.0.1920.1080/0.27.1366.741@1366.0.1920.1080" timestamp="1583250406793" />
+    <state width="1897" height="321" key="GridCell.Tab.1.left" timestamp="1583250406792">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1897" height="321" key="GridCell.Tab.1.left/1366.0.1920.1080/0.27.1366.741@1366.0.1920.1080" timestamp="1583250406792" />
+    <state width="1897" height="321" key="GridCell.Tab.1.right" timestamp="1583250406793">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1897" height="321" key="GridCell.Tab.1.right/1366.0.1920.1080/0.27.1366.741@1366.0.1920.1080" timestamp="1583250406793" />
+    <state x="1608" y="27" width="1423" height="996" key="SettingsEditor" timestamp="1583231778548">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="172" y="27" width="1012" height="684" key="SettingsEditor/0.27.1366.684@0.27.1366.684" timestamp="1582828349228" />
+    <state x="1608" y="27" width="1423" height="996" key="SettingsEditor/1366.0.1920.1080/0.27.1366.741@1366.0.1920.1080" timestamp="1583231778548" />
+    <state x="411" y="230" key="com.intellij.ide.util.TipDialog" timestamp="1583693876439">
+      <screen x="0" y="27" width="1366" height="684" />
+    </state>
+    <state x="411" y="230" key="com.intellij.ide.util.TipDialog/0.27.1366.684@0.27.1366.684" timestamp="1583693876439" />
+    <state x="411" y="247" key="com.intellij.ide.util.TipDialog/1366.0.1920.1080/0.27.1366.741@1366.0.1920.1080" timestamp="1583231166559" />
     <state x="451" y="288" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582825686039">
       <screen x="0" y="27" width="1366" height="684" />
     </state>
     <state x="451" y="288" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.684@0.27.1366.684" timestamp="1582825686039" />
+    <state x="2564" y="293" width="1554" height="730" key="dock-window-1" timestamp="1583238202688">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2564" y="293" width="1554" height="730" key="dock-window-1/1366.0.1920.1080/0.27.1366.741@1366.0.1920.1080" timestamp="1583238202688" />
+    <state x="938" y="95" width="947" height="730" key="dock-window-2" timestamp="1583238202688">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="938" y="95" width="947" height="730" key="dock-window-2/1366.0.1920.1080/0.27.1366.741@1366.0.1920.1080" timestamp="1583238202688" />
+    <state x="2486" y="395" width="1562" height="730" key="dock-window-3" timestamp="1583238235113">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2486" y="395" width="1562" height="730" key="dock-window-3/1366.0.1920.1080/0.27.1366.741@1366.0.1920.1080" timestamp="1583238235113" />
+    <state x="1540" y="146" width="1562" height="730" key="dock-window-4" timestamp="1583238241114">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1540" y="146" width="1562" height="730" key="dock-window-4/1366.0.1920.1080/0.27.1366.741@1366.0.1920.1080" timestamp="1583238241114" />
+    <state x="557" y="231" width="1562" height="730" key="dock-window-5" timestamp="1583238673801">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="557" y="231" width="1562" height="730" key="dock-window-5/1366.0.1920.1080/0.27.1366.741@1366.0.1920.1080" timestamp="1583238673801" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MainAlgorithm/bfs.py</url>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
